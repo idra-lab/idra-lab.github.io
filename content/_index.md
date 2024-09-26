@@ -1,21 +1,29 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-09-26
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        IDRA
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Interdepartmental Laboratory of Robotics** (IDRA) is a strategic initiative of the University of Trento, involving the Department of Industrial Engineering (DII) and the Department of Information Engineering and Computer Science (DISI).
+
+        The Department of Industrial Engineering (DII) performs research, training, and teaching  in the sectors of Industrial Engineering, in particular in Mechanics, Mechatronics, Materials Engineering, Electronic-and Micro-electronics systems, Managerial Information Systems, and Optimization Methods and Models to support decision making. 
+
+        The Department of Information Engineering and Computer Science (DISI) provides a dynamic and qualified response to the ever-increasing demands for cutting-edge skills in the field of ICT, drawing from a productive environment at the local, national and international level.
+
+        You can get more info about DII and DISI at the following links: 
+          www.dii.unitn.it
+          www.disi.unitn.it
   
   - block: collection
     content:
