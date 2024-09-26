@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2024 IDRA-lab. This work is licensed under MIT license'
     license:
       enable: true
       allow_derivatives: false
