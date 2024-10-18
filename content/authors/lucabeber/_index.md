@@ -36,10 +36,10 @@ education:
       year: Now
     - course: Master Degree in Mechatronics Engineering
       institution: University of Trento
-      year: 2024
+      year: 2023
     - course: Bechelor Degree in Industrial Engineering
       institution: University of Trento
-      year: 2022
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

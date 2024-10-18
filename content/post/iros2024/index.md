@@ -1,6 +1,8 @@
 ---
 title: IRSO 2024 Abu Dhabi
 date: 2024-10-18
+
+authors: [lucabebber]
 ---
 
 Workshop and Paper presentation at IROS2024
