@@ -43,7 +43,7 @@ education:
 
 # Social/Academic Networking
 # For available icons, see: 
-https://docs.hugoblox.com/getting-started/page-builder/#icons
+# https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
