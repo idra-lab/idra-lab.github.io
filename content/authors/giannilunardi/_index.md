@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
 ---
 
 Let me introduce you to Luca Beber, the first PhD student of the Trento University medical robotic team! He started working with physical human-robot interaction, focusing on variable impedance control. He is now focusing on the palpation examination for cancer detection, which is so important! In his latest work, he proposed a new method to estimate the viscoelastic properties of tissues, which is very exciting! He is working with robotic arms such as UR3e and Kuka IWAA using ROS2. For his latest studies, he also created silicons phantoms to mimic tumors inside the human body, which is such a great idea!

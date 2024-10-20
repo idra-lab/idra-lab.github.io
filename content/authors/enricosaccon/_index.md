@@ -74,7 +74,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
 ---
 
 Enrico Saccon is a PhD student at the University of Trento focusing on theoretical task planning and human-robot interaction. He explores the intricate world of task and motion planning, striving to bridge the gap between robots and humans. His current research aims to optimize task execution strategies in collaborative robotics, utilizing advanced planning algorithms for greater efficiency, generative models for enhanced user-friendliness, and probabilistic methods for improved adaptability. Enrico’s work extends beyond theory—he brings his ideas to life on real robots using ROS2, pushing the limits of what’s possible in human-robot collaboration.
