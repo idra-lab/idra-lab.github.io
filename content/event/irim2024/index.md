@@ -12,8 +12,8 @@ location: Gazometro - Roma
 #   postcode: '94305'
 #   country: United States
 
-# summary: An example event.
-# abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Join Us at I-RIM 3D 2024.
+abstract: We are thrilled to announce our participation in the **I-RIM 3D 2024** conference. Our team has several exciting activities planned!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -51,16 +51,16 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: [medical-robotics]
 ---
 
-# Join Us at IRIM 2024
+# Join Us at I-RIM 3D 2024
 
 We are thrilled to announce our participation in the **I-RIM 3D 2024** conference. Our team has several exciting activities planned:
 
 ## Poster Session
 
-- **IDRA Lab**: The [IDRA Lab](content/project/idra-lab/index.md) team will present their latest work in the poster sessions. This is a fantastic opportunity to engage with our researchers and learn about the cutting-edge advancements in our fields.
+- **IDRA Lab**: The [IDRA Lab]('content/project/idra-lab/index.md') team will present their latest work in the poster sessions. This is a fantastic opportunity to engage with our researchers and learn about the cutting-edge advancements in our fields.
 
 ## Oral Session
 
