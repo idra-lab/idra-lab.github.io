@@ -22,9 +22,9 @@ date_end: '2024-10-27'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-10-21T00:00:00Z'
 
-authors: [lucabeber]
+authors: [ lucabeber ]
 tags: []
 
 # Is this a featured talk? (true/false)

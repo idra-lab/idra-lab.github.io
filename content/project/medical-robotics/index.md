@@ -3,7 +3,7 @@ title: Medical Robotics Project
 toc: true
 reading_time: false
 pager: false
-authors: []
+authors: [ lucabeber ]
 ---
 
 # Welcome to the Medical Robotics Project
