@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Luca Beber
+title: Davide Dorigoni
 
 # Full name (for SEO)
-first_name: Luca
-last_name: Beber
+first_name: Davide
+last_name: Dorigoni
 
 # Username (this should match the folder name)
 authors:
-  - lucabeber
+  - davidedorigoni
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,27 +19,29 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
   - name: University of Trento
-    url: ''
+    url: 'https://www.dii.unitn.it/en'
+  - name: Fondazione Bruno Kessler
+    url: 'https://www.fbk.eu/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robot control, medical robotics and programming.
+bio: My research interests include SLAM and robot perception with mobile robots.
 
 interests:
-  - Medical Robotics
-  - Human-Robot physical interaction
-  - Estimation and Control
+  - Moblie Robots
+  - SLAM
+  - Robotic Perception
 
 education:
   courses:
-    - course: PhD in Medical Robotics
+    - course: PhD in Mobile Robotics
       institution: University of Trento
       year: Now
-    - course: Master's Degree Degree in Mechatronics Engineering
+    - course: Master Degree in Mechatronics Engineering
       institution: University of Trento
       year: 2023
-    - course: Bachelor's Degree in Industrial Engineering
+    - course: Bechelor Degree in Industrial Engineering
       institution: University of Trento
-      year: 2021
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,18 +50,21 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:luca.beber@gmail.com'
+    link: 'mailto:davide.dorigoni@unitn.it'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ddorigoni@fbk.eu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/luca-beber-122b5423b/
+    link: https://www.linkedin.com/in/davide-dorigoni-a3385b207/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=J1GxvhUAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=sQUOdkYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/lucabeber
+    link: https://github.com/DavDori
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -68,7 +73,7 @@ social:
 email: ''
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to [] or comment out if you are not using People widget.
 user_groups:
   - PhD Students
 ---
