@@ -72,9 +72,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 
-          - article-journal
-          - paper-conference
+        publication_type: 'article-journal'
     design:
       view: citation
       columns: '1'

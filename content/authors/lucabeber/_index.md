@@ -81,10 +81,9 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 
-          - article-journal
-          - paper-conference
-        author: lucabeber
+        publication_type: 'article-journal'
+
+        author: 'lucabeber'
     design:
       view: citation
       columns: '1'
