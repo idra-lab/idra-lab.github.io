@@ -36,10 +36,10 @@ education:
     - course: PhD in Human-Robot Collaboration
       institution: University of Pisa
       year: 2021
-    - course: Master's Degree Degree in Control Systems Engineering
+    - course: MSc in Control Systems Engineering
       institution: University of Padova
       year: 2017
-    - course: Bachelor's Degree in Information Engineering
+    - course: BSc in Information Engineering
       institution: University of Padova
       year: 2014
 
@@ -61,7 +61,7 @@ social:
     icon_pack: fab
     link: https://github.com/edoardolamon
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -70,7 +70,7 @@ social:
 email: ''
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to [] or comment out if you are not using People widget.
 user_groups:
   - Researchers
 ---
