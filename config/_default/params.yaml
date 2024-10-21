@@ -45,12 +45,15 @@ header:
 
 footer:
   copyright:
-    notice: '© 2024 IDRA-lab. This work is licensed under MIT license'
+    notice: |
+      Graphical Design of the logo by Marcello Poltegher (www.marplo.it).
+      © 2024 IDRA-lab. This work is licensed under MIT license.
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  
 
 # Localization
 
