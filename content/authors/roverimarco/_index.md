@@ -73,5 +73,5 @@ user_groups:
   - Researchers
 ---
 
-I am an Associate Professor in the Information Engineering and Computer Science Department of the University of Trento, Italy.  I was a Senior Researcher in the Embedded Systems Unit of Fondazione Bruno Kessler in Trento, and before a researcher in the Automated Reasoning Division of the Istituto Trentino di Cultura also in Trento.  My research interests include formal verification of hardware and software systems, formal cyber security, formal requirements validation of embedded systems, model-based predictive maintenance, and automated model-based planning, and application of such techniques in industrial settings.
+I am an Associate Professor in the Information Engineering and Computer Science Department of the University of Trento, Italy. I was a Senior Researcher in the Embedded Systems Unit of Fondazione Bruno Kessler in Trento, and before a researcher in the Automated Reasoning Division of the Istituto Trentino di Cultura also in Trento.  My research interests include formal verification of hardware and software systems, formal cyber security, formal requirements validation of embedded systems, model-based predictive maintenance, and automated model-based planning, and application of such techniques in industrial settings.
 
