@@ -48,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:edoardo.lamon@unitn.it'
+    link: 'mailto:marco.roveri@unitn.it'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/edoardo-lamon-71b751171/
+    link: https://www.linkedin.com/in/marcoroveri
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.it/citations?user=sWcNpqIAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=wFLeBBkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/edoardolamon
+    link: https://github.com/roveri-marco
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
 # - icon: cv
@@ -73,6 +73,5 @@ user_groups:
   - Researchers
 ---
 
-I am an Assistant Professor (RTD-A) at Università di Trento in the Department of Information Engineering and Computer Science (DISI). From 2021 to 2024 I acted as Post-Doc at the Human-Robot Interfaces and Interaction (HRI²) group at the Istituto Italiano di Tecnologia (IIT), Genoa, Italy. At the University of Trento, I joined the Interdepartmental Robotics Lab (IDRA) where I am the leading researcher of the medical robotics group.  
-My research focuses on combining a human-centric approach to robotic operations with artificial intelligence, with the aim of boosting robotics in everyday life, with applications ranging from manufacturing to medical scenarios.
+I am an Associate Professor in the Information Engineering and Computer Science Department of the University of Trento, Italy.  I was a Senior Researcher in the Embedded Systems Unit of Fondazione Bruno Kessler in Trento, and before a researcher in the Automated Reasoning Division of the Istituto Trentino di Cultura also in Trento.  My research interests include formal verification of hardware and software systems, formal cyber security, formal requirements validation of embedded systems, model-based predictive maintenance, and automated model-based planning, and application of such techniques in industrial settings.
 
