@@ -36,19 +36,19 @@ Our interdisciplinary team comprises experts in robotics, estimation, and artifi
 
 We actively participate in leading conferences and publish our findings in top-tier journals. Recent highlights include:
 
-- Workshop and paper presentation at [IROS 2024 Abu Dhabi](content/post/iros2024/index.md).
+- Workshop and paper presentation at [IROS 2024 Abu Dhabi](/post/iros2024/).
 <!-- - Ongoing research projects and collaborations with renowned institutions. -->
 
 ## Contact Us
 
 For more information about our project or to collaborate with us, please reach out to our team:
 
-- [Edoardo Lamon](content/authors/edoardolamon/_index.md) - Researcher
-- [Davide Nardi](content/authors/davidenardi/_index.md) - PhD Student
-- [Luca Beber](content/authors/lucabeber/_index.md) - PhD Student
+- [Edoardo Lamon](/author/edoardo-lamon/) - Researcher
+- [Davide Nardi](/author/davide-nardi/) - PhD Student
+- [Luca Beber](/author/luca-beber/) - PhD Student
 
 We look forward to advancing the field of medical robotics together!
 
 ---
 
-For detailed information on our research and publications, visit our [publications page](content/publication/).
+For detailed information on our research and publications, visit our [publications page](/publication/).
