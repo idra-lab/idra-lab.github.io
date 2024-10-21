@@ -8,7 +8,7 @@ authors: [ roverimarco ]
 summary: Interactive  social robots that intuitively learn and interact with humans in an emphatic way by reasoning about their execution and by observing the humans. 
 ---
 
-# Welcome to the Medical Robotics
+[//]: # Welcome to the Social Robotics
 
 ## Overview
 
