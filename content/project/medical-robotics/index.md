@@ -3,6 +3,7 @@ title: Medical Robotics Project
 toc: true
 reading_time: false
 pager: false
+authors: []
 ---
 
 # Welcome to the Medical Robotics Project
