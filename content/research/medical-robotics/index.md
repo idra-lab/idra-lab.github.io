@@ -3,7 +3,8 @@ title: Medical Robotics Project
 toc: true
 reading_time: false
 pager: false
-authors: [ lucabeber ]
+show_date: false
+authors: [ lucabeber, davidenardi, edoardolamon, matteosaveriano ]
 ---
 
 # Welcome to the Medical Robotics Project

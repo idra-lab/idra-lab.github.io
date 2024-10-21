@@ -2,7 +2,8 @@
 title: IROS 2024 Abu Dhabi
 date: 2024-10-18
 
-authors: [lucabeber]
+authors: []
+profile: false
 ---
 
 Workshop and Paper presentation at IROS2024
