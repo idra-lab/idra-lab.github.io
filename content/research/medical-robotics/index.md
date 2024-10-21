@@ -1,13 +1,14 @@
 ---
-title: Medical Robotics Project
+title: Medical Robotics
 toc: true
 reading_time: false
 pager: false
 show_date: false
 authors: [ lucabeber, davidenardi, edoardolamon, matteosaveriano ]
+summary: Interactive robots that intuitively learn to invert tasks by reasoning about their execution, Horizon Europe EU project. 
 ---
 
-# Welcome to the Medical Robotics Project
+# Welcome to the Medical Robotics
 
 ## Overview
 

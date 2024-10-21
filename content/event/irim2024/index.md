@@ -13,7 +13,7 @@ location: Gazometro - Roma
 #   country: United States
 
 summary: Join Us at I-RIM 3D 2024.
-abstract: We are thrilled to announce our participation in the **I-RIM 3D 2024** conference. Our team has several exciting activities planned!
+# abstract: We are thrilled to announce our participation in the **I-RIM 3D 2024** conference. Our team has several exciting activities planned!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -52,10 +52,10 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [medical-robotics]
+research: [medical-robotics]
 ---
 
-# Join Us at I-RIM 3D 2024
+<!-- # Join Us at I-RIM 3D 2024 -->
 
 We are thrilled to announce our participation in the **I-RIM 3D 2024** conference. Our team has several exciting activities planned:
 
