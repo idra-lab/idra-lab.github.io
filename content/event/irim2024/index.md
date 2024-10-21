@@ -1,5 +1,5 @@
 ---
-title: IDRA-lab at I-RIM 2024
+title: IDRA-Lab at I-RIM 3D 2024
 
 event: I-RIM 2024 3D
 event_url: https://i-rim.it/it/i-rim-raddoppia-anche-questanno/#
@@ -60,7 +60,7 @@ We are thrilled to announce our participation in the **I-RIM 3D 2024** conferenc
 
 ## Poster Session
 
-- **IDRA Lab**: The [IDRA Lab]('content/project/idra-lab/index.md') team will present their latest work in the poster sessions. This is a fantastic opportunity to engage with our researchers and learn about the cutting-edge advancements in our fields.
+- **IDRA-Lab**: The [IDRA-Lab]('content/project/idra-lab/index.md') team will present their latest work in the poster sessions. This is a fantastic opportunity to engage with our researchers and learn about the cutting-edge advancements in our fields.
 
 ## Oral Session
 
