@@ -25,11 +25,21 @@ organizations:
 bio: Passionate researcher in distributed measurements for robotics application in the field of manufacturing, healthcare and agrifood.
 
 interests:
-  - mobile robotics
   - measurements systems for robots
   - real-time estimation and control
+  - mobile robotics
   - industrial robotics
   - service robotics
+  - robotics for healthcare
+
+education:
+  courses:
+    - course: PhD in Autoamtion, Robotics and Bioengineering
+      institution: University of Pisa
+      year: 2006
+    - course: MSc in COmputer Science Engineering
+      institution: University of Pisa
+      year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
