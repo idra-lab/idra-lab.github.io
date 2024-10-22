@@ -42,7 +42,7 @@ header:
     highlight_active_link: false
     logo:
       text: ""
-      filename: "logo.svg"
+      filename: "logo.png"
 
 # Site footer
 
