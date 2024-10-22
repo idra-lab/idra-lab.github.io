@@ -37,7 +37,7 @@ education:
       year: 2017
     - course: MEng in Automatic Control Engineering
       institution: University of Naples
-      year: 20011
+      year: 2011
     - course: BSc in Automatic Control Engineering
       institution: University of Naples
       year: 2008
