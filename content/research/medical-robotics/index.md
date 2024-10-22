@@ -1,11 +1,12 @@
 ---
-title: Medical Robotics
+title: Medical Robotics 
 toc: true
 reading_time: false
 pager: false
 show_date: false
 authors: [ lucabeber, davidenardi, edoardolamon, matteosaveriano ]
-summary: Interactive robots that intuitively learn to invert tasks by reasoning about their execution, Horizon Europe EU project. 
+summary: |-
+ Our Medical Robotics Project is at the forefront of integrating advanced robotics with medical applications. We focus on two primary areas\: robotic ultrasound with teleoperation and robotized palpation for cancer detection. Our goal is to enhance the precision, safety, and efficiency of medical procedures through cutting-edge robotic technologies.
 ---
 
 # Welcome to the Medical Robotics
