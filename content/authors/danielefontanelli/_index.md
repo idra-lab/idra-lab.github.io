@@ -37,7 +37,7 @@ education:
     - course: PhD in Autoamtion, Robotics and Bioengineering
       institution: University of Pisa
       year: 2006
-    - course: MSc in COmputer Science Engineering
+    - course: MSc in Computer Science Engineering
       institution: University of Pisa
       year: 2001
 
