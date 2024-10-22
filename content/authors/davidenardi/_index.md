@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Medical Robotics
       institution: University of Trento
-      year: Started in 2024
+      year: Now
     - course: Master's Degree in Artificial Intelligence Systems
       institution: University of Trento
       year: 2024

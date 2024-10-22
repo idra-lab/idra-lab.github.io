@@ -36,7 +36,7 @@ education:
       year: Now
     - course: Master Degree in Computer Science
       institution: University of Trento
-      year: 20222
+      year: 2022
     - course: Bechelor Degree in Computer Science
       institution: University of Trento
       year: 2018

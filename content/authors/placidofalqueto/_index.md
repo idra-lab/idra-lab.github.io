@@ -38,7 +38,7 @@ education:
       institution: University of Padova
       year: 2020
     - course: Bechelor Degree in Mechanic and Mechatronics Engineering
-      institution: University of Padua
+      institution: University of Padova
       year: 2017
 
 # Social/Academic Networking

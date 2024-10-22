@@ -27,7 +27,7 @@ organizations:
 bio: My research interests include SLAM and robot perception with mobile robots.
 
 interests:
-  - Moblie Robots
+  - Mobile Robots
   - SLAM
   - Robotic Perception
 

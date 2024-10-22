@@ -4,7 +4,7 @@ toc: true
 reading_time: false
 pager: false
 show_date: false
-authors: [ lucabeber, davidenardi, edoardolamon, matteosaveriano ]
+authors: [ lucabeber, davidenardi, edoardolamon, matteosaveriano, luigipalopoli, danielefontanelli ]
 summary: |-
  Our Medical Robotics Project is at the forefront of integrating advanced robotics with medical applications. We focus on two primary areas\: robotic ultrasound with teleoperation and robotized palpation for cancer detection. Our goal is to enhance the precision, safety, and efficiency of medical procedures through cutting-edge robotic technologies.
 ---
@@ -39,7 +39,8 @@ Our interdisciplinary team comprises experts in robotics, estimation, and artifi
 
 We actively participate in leading conferences and publish our findings in top-tier journals. Recent highlights include:
 
-- Workshop and paper presentation at [IROS 2024 Abu Dhabi](/post/iros2024/).
+- Paper presentation at [IROS 2024 Abu Dhabi](/post/iros2024/).
+- Submission to [IEEE ICRA 2025](/publication/nardi-2024-anatomy/).
 <!-- - Ongoing research projects and collaborations with renowned institutions. -->
 
 ## Contact Us
