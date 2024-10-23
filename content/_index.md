@@ -39,7 +39,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: [post,event]
+      page_type: ['post','event']
     design:
       view: card
       columns: '1'
