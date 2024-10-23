@@ -1,8 +1,8 @@
 ---
-title: IDRA-Lab at I-RIM 3D 2024
+title: IDRA-Lab at I-RIM 3D 2024 and Maker Faire Rome
 
 event: I-RIM 2024 3D
-event_url: https://i-rim.it/it/i-rim-raddoppia-anche-questanno/#
+event_url: https://i-rim.it/it/conferenza-i-rim-3d-2024/
 
 location: Gazometro - Roma
 # address:
@@ -12,7 +12,7 @@ location: Gazometro - Roma
 #   postcode: '94305'
 #   country: United States
 
-summary: Join Us at Maker Faire and I-RIM 3D 2024.
+summary: Join us to see our latest and our medical robotics demo.
 # abstract: We are thrilled to announce our participation in the **I-RIM 3D 2024** conference. Our team has several exciting activities planned!
 
 # Talk start and end times.
@@ -57,7 +57,7 @@ research: []
 
 <!-- # Join Us at I-RIM 3D 2024 -->
 
-We are thrilled to announce our participation in the [I-RIM 3D 2024](https://i-rim.it/it/conferenza-i-rim-3d-2024/) conference. Our team has several exciting activities planned:
+We are thrilled to announce our participation in the **I-RIM 3D 2024** conference. Our team has several exciting activities planned:
 
 ## Poster Session
 

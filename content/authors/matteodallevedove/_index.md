@@ -67,7 +67,7 @@ email: 'matteo.dallevedove@unitn.it'
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
 ---
 
 Matteo Dalle Vedove is a PhD student working on the transfer of human skills to robotic manipulators.
