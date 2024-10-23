@@ -39,30 +39,49 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: ['post','event']
+      page_type: news
     design:
       view: card
       columns: '1'
   
-  - block: markdown
+  - block: collection
     content:
-      title:
-      subtitle: ''
+      title: Latest News
+      subtitle:
       text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: events
     design:
+      view: card
       columns: '1'
-      background:
-        image: 
-          filename: coders.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          # size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: coders.png
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         # size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 
   - block: collection
     content:
