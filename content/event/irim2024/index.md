@@ -65,7 +65,7 @@ We are thrilled to announce our participation in the **I-RIM 3D 2024** conferenc
 
 ## Oral Session
 
-- **Davide Nardi**: We are proud to announce that [Davide Nardi](/author/davide-nardi/) has won the candidature for the best paper. He will be presenting his work during the oral session. Don't miss this insightful presentation!
+- **Award**: We are proud to announce that [Davide Nardi](/author/davide-nardi/) has won the candidature for the best paper. He will be presenting his work during the oral session. Don't miss this insightful presentation!
 
 ## Maker Faire Demo
 
