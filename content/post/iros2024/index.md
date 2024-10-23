@@ -1,9 +1,10 @@
 ---
 title: IROS 2024 Abu Dhabi
 date: 2024-10-18
-
-authors: []
-profile: false
+reading_time: false
+authors: [ lucabeber, edoardolamon, matteosaveriano ]
+# profile: false
+research: [medical-robotics]
 ---
 
 Workshop and Paper presentation at IROS2024
