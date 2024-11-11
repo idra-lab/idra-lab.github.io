@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: PhD in Human-Robot Collaboration
-      institution: University of Pisa
+      institution: University of Pisa / Istituto Italiano di Tecnologia (IIT)
       year: 2021
     - course: MSc in Control Systems Engineering
       institution: University of Padova
