@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        IDRA
-        Research Group
+        IDRA Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Interdepartmental Laboratory of Robotics** (IDRA) is a strategic initiative of the University of Trento, involving the Department of Industrial Engineering (DII) and the Department of Information Engineering and Computer Science (DISI).
+        The **Interdepartmental Robotics Labs** (IDRA) is a strategic initiative of the University of Trento to combine expertise in different areas within the robotics research. It involves the Department of Industrial Engineering (DII) and the Department of Information Engineering and Computer Science (DISI).
 
-        The Department of Industrial Engineering (DII) performs research, training, and teaching  in the sectors of Industrial Engineering, in particular in Mechanics, Mechatronics, Materials Engineering, Electronic-and Micro-electronics systems, Managerial Information Systems, and Optimization Methods and Models to support decision making. 
+        The Department of Industrial Engineering (DII) performs research, training, and teaching  in the sectors of Industrial Engineering, in particular in mechanics, mechatronics, materials engineering, electronic-and micro-electronics systems, mananagerial information systems, and optimization methods and models to support decision making. 
 
-        The Department of Information Engineering and Computer Science (DISI) provides a dynamic and qualified response to the ever-increasing demands for cutting-edge skills in the field of ICT, drawing from a productive environment at the local, national and international level.
+        The Department of Information Engineering and Computer Science (DISI) Is a leading institution in research and development in the area of Information and Communication Technology (ICT), and in particular in the field of software engineering, signal processing, networks and sensing, machine learning, quantum computing, and human-computer interaction.
 
         You can get more info about DII and DISI at the following links: 
           www.dii.unitn.it

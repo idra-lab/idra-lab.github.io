@@ -14,7 +14,7 @@ sections:
       # phone: 888 888 88 88
       address:
         street: Via Sommarive 9
-        city: Povo - Trento
+        city: Povo, Trento
         region: Trentino
         postcode: '38123'
         country: Italy
@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '46.0679379'
         longitude: '11.1501062'
-      directions: Enter Building Povo 2 and take the stairs to first floor. The offices of the members of the IDRA-Lab are located here.
+      directions: Enter Building Povo 2 and take the stairs to first floor. The offices of the members of the IDRA Labs are located mainly here.
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
@@ -37,13 +37,13 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: true
     design:
       columns: '1'
 

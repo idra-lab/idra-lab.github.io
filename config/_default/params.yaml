@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: 'The Interdepartmental Robotics Labs (IDRA) is a research group at the University of Trento, Italy.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -41,8 +41,8 @@ header:
     show_search: true
     highlight_active_link: false
     logo:
-      text: 'IDRA-Labs'
-      filename: 'logo.png'
+      text: 'IDRA Labs'
+      filename: 'icon.png'
 
 # Site footer
 
