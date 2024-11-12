@@ -4,18 +4,16 @@ toc: true
 reading_time: false
 pager: false
 show_date: false
-authors: [ lucabeber, davidenardi, edoardolamon, matteosaveriano, luigipalopoli, danielefontanelli ]
+authors: [edoardolamon, lucabeber, davidenardi, matteosaveriano, luigipalopoli, danielefontanelli]
 summary: |-
- The medical robotics research is at the forefront of integrating advanced robotics with medical applications. We focus on two primary areas\: teleoperated robotic ultrasound examinations and autonomous robotic palpation for cancer detection. Our goal is to enhance the precision, safety, and efficiency of medical procedures through cutting-edge robotic technologies.
+ The medical robotics research is at the forefront of integrating advanced robotics with medical applications. We focus on two primary areas: teleoperated robotic ultrasound examinations and autonomous robotic palpation for cancer detection. Our goal is to enhance the precision, safety, and efficiency of medical procedures through cutting-edge robotic technologies.
 ---
-
-# Welcome to the Medical Robotics Group
 
 ## Overview
 
 The medical robotics research is at the forefront of integrating advanced robotics with medical applications. We focus on two primary areas: **teleoperated robotic ultrasound examinations** and **autonomous robotic palpation for cancer detection**. Our goal is to enhance the precision, safety, and efficiency of medical procedures through cutting-edge robotic technologies.
 
-## Teleoperated Robotic Ultrasound Examinations
+### Teleoperated Robotic Ultrasound Examinations
 
 Teleoperated robotic ultrasound systems allow medical professionals to perform ultrasound examinations remotely. This technology is particularly beneficial in scenarios where access to specialized medical expertise is limited. Our research aims to:
 
@@ -23,7 +21,7 @@ Teleoperated robotic ultrasound systems allow medical professionals to perform u
 - Ensure high-fidelity image acquisition and real-time feedback.
 - Enhance the safety and reliability of remote ultrasound procedures.
 
-## Autonomous Robotic Palpation for Cancer Detection
+### Autonomous Robotic Palpation for Cancer Detection
 
 Early detection of cancer can significantly improve treatment outcomes. Our robotized palpation system is designed to assist in the early detection of tumors through precise and consistent palpation techniques. Key features of our research include:
 

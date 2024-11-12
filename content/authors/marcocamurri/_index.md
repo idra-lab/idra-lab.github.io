@@ -53,10 +53,10 @@ social:
     link: 'mailto:marco.camurri@unitn.it'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/edoardo-lamon-71b751171/
+    link: https://www.linkedin.com/in/marco-camurri-a8750783
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.it/citations?user=sWcNpqIAAAAJ&hl=en
+    link: https://scholar.google.it/citations?user=_yTpZ7QAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/mcamurri
