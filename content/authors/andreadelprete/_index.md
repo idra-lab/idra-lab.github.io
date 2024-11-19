@@ -8,10 +8,10 @@ last_name: Del Prete
 
 # Username (this should match the folder name)
 authors:
-  - admin
+  - andreadelprete
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Associate Professor
