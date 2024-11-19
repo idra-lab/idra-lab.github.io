@@ -77,3 +77,5 @@ user_groups:
 ---
 
 Andrea Del Prete is a professor of robotics at the Industrial Engineering Department of the University of Trento (Italy). His research interests include legged robots, trajectory optimization and reinforcement learning. His research tries to bridge the gap between model-based and model-free methods for controlling dynamical systems, with a special focus on safety guarantees.
+
+More information are available at [Andrea's webpage](https://andreadelprete.github.io/).
