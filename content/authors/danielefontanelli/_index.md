@@ -34,7 +34,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Autoamtion, Robotics and Bioengineering
+    - course: PhD in Automation, Robotics and Bioengineering
       institution: University of Pisa
       year: 2006
     - course: MSc in Computer Science Engineering

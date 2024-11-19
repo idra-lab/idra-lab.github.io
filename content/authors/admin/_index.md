@@ -6,11 +6,15 @@ title: Andrea Del Prete
 first_name: Andrea
 last_name: Del Prete
 
+# Username (this should match the folder name)
+authors:
+  - admin
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Robotics
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -45,9 +49,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:andrea.delprete@unitn.it'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+  - icon: academia
+    icon_pack: academicons
+    link: https://andreadelprete.github.io/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.fr/citations?user=PYLHQsYAAAAJ
