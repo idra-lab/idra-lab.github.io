@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: 'https://webapps.unitn.it/du/en/Persona/PER0281361/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include motion control of robots in shared environments.
 
 interests:
   - Motion control  

@@ -41,7 +41,7 @@ header:
     show_search: true
     highlight_active_link: false
     logo:
-      text: 'IDRA Labs'
+      text: 'IDRA Lab'
       filename: 'icon.png'
 
 # Site footer
