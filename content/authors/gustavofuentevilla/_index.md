@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gustavo Fuentevilla
+title: Gustavo Pérez Fuentevilla
 
 # Full name (for SEO)
 first_name: Jorge Gustavo
