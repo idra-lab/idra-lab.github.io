@@ -20,7 +20,7 @@ summary: First seminar of the 2024/2025 virtual seminar series of the IEEE RAS T
 date: '2024-12-05'
 time: '3:00 PM'
 # date_end: '2024-12-05'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-11-19T00:00:00Z'
