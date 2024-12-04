@@ -18,6 +18,7 @@ summary: First seminar of the 2024/2025 virtual seminar series of the IEEE RAS T
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-12-05'
+time: '3:00 PM'
 # date_end: '2024-12-05'
 all_day: false
 

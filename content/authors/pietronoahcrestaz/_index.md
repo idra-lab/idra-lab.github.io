@@ -74,4 +74,3 @@ user_groups:
 ---
 
 Pietro Noah Crestaz is a PhD student in Materials, Mechatronics, and Systems Engineering at the University of Trento, co-supervised at the CNRS-LAAS in Toulouse. His research focuses on developing computationally efficient reinforcement learning algorithms, with a particular emphasis on legged locomotion and, more broadly, on systems involving contact dynamics.
-```
