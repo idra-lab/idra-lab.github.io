@@ -8,7 +8,7 @@ last_name: Dalle Vedove
 
 # Username (this should match the folder name)
 authors:
-  - matteodv
+  - matteodallevedove
 
 # Is this the primary user of the site?
 superuser: false
