@@ -3,7 +3,7 @@ title: INVERSE
 subtitle: INteractive robots that intuitiVely lEarn to inVErt tasks by ReaSoning about their Execution.
 summary: Advancing robotics technology through continous learning and adaptation.
 tags: ["Robot Learning", "Manufacturing"]
-authors: [matteosaveriano]
+authors: [matteosaveriano, danielefontanelli, luigipalopoli, marcoroveri, mohammadyeganegi]
 date: '2024-01-01'
 date_end: '2027-12-31'
 ---
