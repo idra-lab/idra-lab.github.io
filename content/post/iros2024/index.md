@@ -4,7 +4,7 @@ date: 2024-10-18
 reading_time: false
 authors: [ lucabeber, edoardolamon, matteosaveriano ]
 # profile: false
-research: [medical-robotics]
+research: [medical]
 ---
 
 Workshop and Paper presentation at IROS2024

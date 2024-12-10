@@ -1,9 +1,9 @@
 ---
 title: MAGICIAN
 subtitle: Immersive learninG for imperfection detection and repair through human-robot interaction.
-summary: Robotic solutions to classify and rework defects in automotive.
-tags: ["Smart Industrial Robotics", "Automotive"]
-authors: [danielefontanelli, luigipalopoli, matteodallevedove, songqungao]
+summary: Robotic solutions to classify and rework defects in manufacturing.
+tags: ["Smart Industrial Robotics", "Manufacturing"]
+authors: [danielefontanelli, luigipalopoli, songqungao, matteodallevedove, gustavofuentevilla, veronicacampana]
 date: '2023-10-01'
 date_end: '2027-09-30'
 ---
@@ -34,9 +34,7 @@ Two modular robotic solutions:
 - a sensing robot for defect analysis (SR)
 - a cleaning robot for reworking defects (CR) 
 
-Both robots will use AI modules to perform associated operations.
-
-Data needed for these AI modules will be gathered by learning from workers operating on semi-finished products.
+Both robots will use AI modules to perform associated operations. Data needed for these AI modules will be gathered by learning from workers operating on semi-finished products.
 
 **Human-centred approach**: MAGICIAN applies a  human-centred design strategy to shape the progress of automation and human-robot collaboration in manufacturing towards an emphasis on trust, empathy, and ethics.
 
@@ -46,8 +44,8 @@ Data needed for these AI modules will be gathered by learning from workers opera
 
 ## Impact
 
-Innovative robotic components for mechanical working operations allowing for human-robot collaboration
-Improved productivity in manufacturing and maintenance
-Improved health and safety conditions for human workers and focus on added value operations
-Tested applicability of solutions for various manufacturing application fields
-Strengthened trust in AI and robotic technologies 
+- Innovative robotic components for mechanical working operations allowing for human-robot collaboration;
+- Improved productivity in manufacturing and maintenance;
+- Improved health and safety conditions for human workers and focus on added value operations;
+- Tested applicability of solutions for various manufacturing application fields;
+- Strengthened trust in AI and robotic technologies.
