@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -71,8 +71,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Professors
 ---
 
-Currently, Matteo is an Assistant Professor at the Department of Industrial Engineering (DII), University of Trento, Italy. He has previously served as an Assistant Professor at the University of Innsbruck and as a Postdoctoral Researcher at the German Aerospace Center (DLR). He is an Associate Editor for RA-L and IJRR. He is the coordinator of the HE EU INVERSE project.
+Currently, Matteo is an Associate Professor at the Department of Industrial Engineering (DII), University of Trento, Italy. He has previously served as an Assistant Professor at the University of Innsbruck and as a Postdoctoral Researcher at the German Aerospace Center (DLR). He is an Associate Editor for RA-L and IJRR. He is the coordinator of the HE EU INVERSE project.
 

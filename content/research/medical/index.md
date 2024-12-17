@@ -1,12 +1,12 @@
 ---
-title: Medical and Assistive Robotics 
+title: Assistive and Medical Robotics 
 toc: true
 reading_time: false
 pager: false
 show_date: false
-authors: [edoardolamon, lucabeber, davidenardi, matteosaveriano, luigipalopoli, danielefontanelli]
+authors: [edoardolamon, lucabeber, davidenardi, matteosaveriano, danielefontanelli, luigipalopoli]
 summary: |-
- The medical robotics research is at the forefront of integrating advanced robotics with medical applications. We focus on two primary areas: teleoperated robotic ultrasound examinations and autonomous robotic palpation for cancer detection. Our goal is to enhance the precision, safety, and efficiency of medical procedures through cutting-edge robotic technologies.
+ The goal of assistive and medical robotics research is to enhance the precision, safety, and efficiency of medical procedures through cutting-edge robotic technologies. We focus on two primary areas: teleoperated robotic ultrasound examinations and autonomous robotic palpation for cancer detection.
 ---
 
 ## Overview

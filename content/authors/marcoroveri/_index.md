@@ -8,7 +8,7 @@ last_name: Roveri
 
 # Username (this should match the folder name)
 authors:
-  - roverimarco
+  - marcoroveri
 
 # Is this the primary user of the site?
 superuser: false
