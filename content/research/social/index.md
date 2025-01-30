@@ -4,7 +4,7 @@ toc: true
 reading_time: false
 pager: false
 show_date: false
-authors: [ roverimarco, giuliadaddato, placidofalqueto ]
+authors: [ marcoroveri, giuliadaddato, placidofalqueto ]
 summary: Interactive  social robots that intuitively learn and interact with humans in an emphatic way by reasoning about their execution and by observing the humans. 
 ---
 
