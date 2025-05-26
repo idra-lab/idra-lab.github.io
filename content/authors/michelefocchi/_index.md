@@ -34,6 +34,7 @@ interests:
   - Climbing Robots
 
 education:
+courses:
     - course: PhD in Robotics
       institution: University of Genova/Istituto Italiano di Tecnologia
       year: 2013
