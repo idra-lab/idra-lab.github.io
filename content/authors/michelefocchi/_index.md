@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor (RTD-A) 
+role: Assistant Professor (RTT - Tenure Track) 
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,6 @@ interests:
   - Climbing Robots
 
 education:
-  courses:
     - course: PhD in Robotics
       institution: University of Genova/Istituto Italiano di Tecnologia
       year: 2013
@@ -77,6 +76,9 @@ user_groups:
   - Researchers
 ---
 
-Michele Focchi is a world recognized expert in motion planning and control of quadruped robots, with 16 years of experience in the field of robotics. He is particularly known for his pioneering work on heuristic locomotion in unstructured terrains. Currently, he holds the position of scientific advisor for ALL3 and is an Assistant Professor at the University of Trento. In 2013 he got a PhD in robotics at Istituto Italiano di Tecnologia where he was co-founder of the Dynamic Legged System (DLS) lab, an international research team dedicated to the development of quadruped robots and the study of their locomotion. His research interests lie  at the intersection between control, optimization and machine learning with a focus on enhancing the performance of quadruped robots in challenging environments, by using optimization-based techniques. He explored innovative robotic platforms, such as a rappelling robot, to address specific challenges like hydro-geological risk reduction. Michele joined the Interdepartmental Robotics Lab (IDRA) where he is the leading researcher of the digital agriculture robotics group.
+
+**Michele Focchi** is a world-recognized expert in motion planning and control of quadruped robots, with **16 years of experience** in robotics. He is particularly known for his **pioneering work on heuristic locomotion in unstructured terrains**. His research lies at the intersection of control, optimization, and machine learning, with a focus on enhancing quadruped robot performance in challenging environments through optimization-based techniques.  Currently, he is a Professor at the University of Trento in the [Department of Information Engineering and Computer Science (DISI)](https://www.disi.unitn.it/it), where he teaches introductory robotics courses and a Scientific Advisor for [All3](www.all3.com). From 2022 to 2024,  He was also a visiting scientist at the Istituto Italiano di Tecnologia (IIT), where previously he co-founded the Dynamic Legged Systems (DLS) Lab, a leading international research team dedicated to the development of quadruped robots and their locomotion.   Dr. Focchi earned both his B.Sc. and M.Sc. in Control Systems Engineering from Politecnico di Milano. In 2013, he completed his Ph.D. in Robotics at IIT, contributing to the Hydraulically Actuated Quadruped Robot project. His work evolved from low-level controllers for locomotion to whole-body control, model identification, and robust locomotion strategies for real-world platforms. He has also explored innovative robotic platforms, including a rappelling robot for hydro-geological risk reduction and control strategies for tracked robots in agriculture.  
+Beyond academia, Dr. Focchi has played key roles in several high-profile industrial and academic projects, including ECHORD++, INAIL, and ANT with the European Space Agency. In 2015, he co-founded the MOOG-IIT joint lab to develop advanced software and control solutions for autonomous robots. He has organized several scientific workshops and delivered over 20 invited talks at international events.  
+He is an Associate Editor for RA-L and the ICRA conference. He has authored or co-authored **more than 53 scientific papers** in international journals and conferences, with a high citation record, and has supervised numerous Master’s and Ph.D. theses.  Michele joined the Interdepartmental Robotics Lab (IDRA) where he is the leading researcher of the digital agriculture robotics group.
 
 More information are available at [Michele](https://mfocchi.github.io/)’s webpage.
