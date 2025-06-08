@@ -1,5 +1,5 @@
 ---
-title: IROS 2024 Abu Dhabi
+title: IROS 2024 Abu Dhabi, UAE
 date: 2024-10-18
 reading_time: false
 authors: [ lucabeber, edoardolamon, matteosaveriano ]
@@ -7,7 +7,7 @@ authors: [ lucabeber, edoardolamon, matteosaveriano ]
 research: [medical]
 ---
 
-Workshop and Paper presentation at IROS2024
+Workshop and Paper presentation at IROS 2024
 
 <!--more-->
 

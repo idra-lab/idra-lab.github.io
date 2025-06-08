@@ -51,12 +51,12 @@ TBD - add orienteering
 
 ## The Team
 
-- [Matteo Saveriano](/author/edoardo-lamon/) - Professor
+- [Matteo Saveriano](/author/matteo-saveriano/) - Professor
 - [Marco Roveri](/author/davide-nardi/) - Professor
 - [Songchun Gao](/author/luca-beber/) - Researcher
-- [Matteo Dalle Vedove](/author/) - PhD Student
-- [Elena Basei](/author/) - PhD Student
-- [Veronica Campana](/author/) - PhD Student
+- [Matteo Dalle Vedove](/author/matteo-dallevedove/) - PhD Student
+- [Elena Basei](/author/elena-basei/) - PhD Student
+- [Veronica Campana](/author/veronica-campana/) - PhD Student
 - [Edoardo Lamon](/author/edoardo-lamon/) - Collaborator
 
 ## Publications and Events
