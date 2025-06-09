@@ -7,7 +7,7 @@ authors: [ andreadelprete, edoardolamon, matteosaveriano, luigipalopoli, matteod
 research: [medical, manufacturing]
 ---
 
-Workshops and Papers presentations at ICRA 2025
+# Workshops and Papers presentations at ICRA 2025
 
 <!--more-->
 
