@@ -1,17 +1,16 @@
 ---
-title: IDRA @ICRA 2025 Atlanta, USA
+title: ICRA 2025 Atlanta, USA
 date: 2025-05-23
 reading_time: false
-authors: [ andreadelprete, edoardolamon, matteosaveriano, luigipalopoli, matteodallevedove, eliasfontanari, elenabasei ]
+authors: [matteodallevedove, eliasfontanari, elenabasei, edoardolamon, matteosaveriano, andreadelprete, luigipalopoli]
 # profile: false
 research: [medical, manufacturing]
 ---
 
 ## Workshops and Papers presentations at ICRA 2025
+A delegation from IDRA attended the 41st edition ICRA conference, held in Atlanta (US) in the days 18-23 May 2025.
 
 <!--more-->
-
-A delegation from IDRA attended the 41st edition ICRA conference, held in Atlanta (US) in the days 18-23 May 2025.
 
 The first day kickstarted with the workshop [Learning Meets Model-Based Methods for Contact-Rich Manipulation](https://contact-rich.github.io/), where [Matteo Dalle Vedove](/author/matteo-dalle-vedove/) gave a poster presentation about his work on motion policy learning on surfaces. The official presentation of the article  [MeshDMP: Motion Planning on Discrete Manifolds using Dynamic Movement Primitives](https://arxiv.org/abs/2410.15123) was given by Matteo on the first session of Tuesday, where a 5 minute presentation followed a participated poster session. This work presents a novel DMP-based method for learning motion policies on surfaces which relax the requirement of the manifold to be smooth, but only requires a polyhedral mesh.
 

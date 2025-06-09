@@ -1,10 +1,10 @@
 ---
-title: Awards @ICRA 2025 Atlanta, USA
+title: ICRA 2025 Atlanta, USA
 date: 2025-05-23
 reading_time: false
-authors: [  matteosaveriano, danielefontanelli, matteodallevedove, eliasfontanari ]
+authors: [matteodallevedove, eliasfontanari, matteosaveriano, danielefontanelli]
 # profile: false
-research: [medical, manufacturing]
+research: [manufacturing]
 ---
 
 ## Awards at ICRA 2025
@@ -31,5 +31,5 @@ The award, valued at $350, was sponsored by the IEEE Robotics and Automation Soc
 The event featured presentations from international academic researchers and industry leaders, all focused on how cutting-edge robotics research can be transferred into real-world manufacturing to meet growing demands for flexibility and customization.
 We’re honored by this recognition and excited to continue developing technologies that bring advanced robot learning closer to industrial applications.
 
-###S Workshop Best Paper Finalist in Planning and Control in Real World Scenarios
+## Workshop Best Paper Finalist in Planning and Control in Real World Scenarios
 Finally, [Elias Fontanari](/author/elias-fontanari)'s work, 'Parallel-Constraint Model Predictive Control: Exploiting Parallel Computation for Improving Safety' was selected as one of the three candidates for the workshop [Beyond the Lab: Robust Planning and Control in Real World Scenarios](https://sites.google.com/view/robust-planning-icra2025-ws) best abstract award. Even if the prize was not won, the nomination recognised the quality of the work.
