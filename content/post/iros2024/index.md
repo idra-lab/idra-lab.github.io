@@ -7,7 +7,7 @@ authors: [ lucabeber, edoardolamon, matteosaveriano ]
 research: [medical]
 ---
 
-# Workshop and Paper presentation at IROS 2024
+## Workshop and Paper presentation at IROS 2024
 
 <!--more-->
 
