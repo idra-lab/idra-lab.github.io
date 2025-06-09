@@ -66,9 +66,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
-Elias is a post-graduation researcher that investigates methods to improve safety and feasibility in Model Predictive Control (MPC) applied to robotic systems. In particular, he is working on exploiting parallel computation to improve safety performance when employing MPC with learned safe sets.     
+Elias is a postgraduate researcher that investigates methods to improve safety and feasibility in Model Predictive Control (MPC) applied to robotic systems. In particular, he is working on exploiting parallel computation to improve safety performance when employing MPC with learned safe sets.     
 
 
