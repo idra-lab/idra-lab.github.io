@@ -1,5 +1,5 @@
 ---
-title: IROS 2024 Abu Dhabi, UAE
+title: IDRA @IROS 2024 Abu Dhabi, UAE
 date: 2024-10-18
 reading_time: false
 authors: [ lucabeber, edoardolamon, matteosaveriano ]

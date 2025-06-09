@@ -1,5 +1,5 @@
 ---
-title: ICRA 2025 Atlanta, USA
+title: Awards @ICRA 2025 Atlanta, USA
 date: 2025-05-23
 reading_time: false
 authors: [  matteosaveriano, danielefontanelli, matteodallevedove, eliasfontanari ]
