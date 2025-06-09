@@ -1,5 +1,5 @@
 ---
-title: IROS 2024 Abu Dhabi, UAE
+title: IROS 2024 @Abu Dhabi, UAE
 date: 2024-10-18
 reading_time: false
 authors: [lucabeber, edoardolamon, matteosaveriano]
@@ -8,7 +8,7 @@ research: [medical]
 ---
 
 ## Workshop and Paper presentation at IROS 2024
-During the IROS2024 conference some members of IDRA had the opportunity to hold a workshop and present a paper.
+Few members of IDRA had the opportunity to hold a workshop and present a paper at at [IROS 2024](https://iros2024-abudhabi.org/), held in Abu Dhabi (UAE) in the days 14-18 October 2024.
 
 <!--more-->
 

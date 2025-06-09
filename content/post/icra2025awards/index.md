@@ -1,5 +1,5 @@
 ---
-title: ICRA 2025 Atlanta, USA
+title: ICRA 2025 @Atlanta, USA
 date: 2025-05-23
 reading_time: false
 authors: [matteodallevedove, eliasfontanari, matteosaveriano, danielefontanelli]
@@ -8,7 +8,7 @@ research: [manufacturing]
 ---
 
 ## Awards at ICRA 2025
-IDRA recieved few awards and research recognition at the 41st edition ICRA conference, held in Atlanta (US) in the days 18-23 May 2025.
+IDRA recieved few awards and research recognition at the 41st edition of [ICRA](https://2025.ieee-icra.org/), held in Atlanta (USA) in the days 18-23 May 2025.
 
 <!--more-->
 
