@@ -54,7 +54,7 @@ TBD - add orienteering
 - [Matteo Saveriano](/author/matteo-saveriano/) - Professor
 - [Marco Roveri](/author/davide-nardi/) - Professor
 - [Songchun Gao](/author/luca-beber/) - Researcher
-- [Matteo Dalle Vedove](/author/matteo-dallevedove/) - PhD Student
+- [Matteo Dalle Vedove](/author/matteo-dalle-vedove/) - PhD Student
 - [Elena Basei](/author/elena-basei/) - PhD Student
 - [Veronica Campana](/author/veronica-campana/) - PhD Student
 - [Edoardo Lamon](/author/edoardo-lamon/) - Collaborator
