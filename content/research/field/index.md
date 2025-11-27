@@ -27,7 +27,7 @@ The development of this prototype required the integration of multiple multidisc
 - **Computer science and robotics**: development of control and navigation software, including computer vision algorithms for environment recognition, surface classification, and foreign object detection, as well as optimization algorithms for path planning.
 - **Supervision and remote control systems**: development of a web application for real-time monitoring and remote operation of the robot, allowing operators to supervise tasks and intervene safely and efficiently.
 
-The  webpage of the WIKI of the project can be found [here](https://github.com/MalaHard-RoboTech).
+The  webpage of the WIKI of the project can be found here:[https://github.com/alpine-robot](https://github.com/alpine-roboth).
 
 ### The Team
 
