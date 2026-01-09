@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni 
+role: Former PhD Student 
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 Gianni Lunardi is a PhD Candidate in Material, Mechatronics and Systems Engineering at the University of Trento. His research focuses on safe control of robots inside a known environment, to avoid collisions and abort dangerous tasks. In the future, he aims to extend safe control strategy to human-robot collaboration, to ensure safety and efficiency in shared workspaces.   

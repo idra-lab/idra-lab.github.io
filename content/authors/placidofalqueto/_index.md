@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni 
+role: Former PhD Student 
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 Meet Placido Falqueto, a dedicated researcher in human-robot collaboration! He has worked with various systems, from assistive robots to collaborative manipulators. He was a finalist at the IRIM 3D 2022 conference in Rome for his work on shared control for a robotic walker. Currently, Placido is developing human-aware motion planning for robotic arms using gesture predictions. He programs in C++ and Python, leveraging both traditional tools like GMM and modern ones like ViT to push the boundaries of robotics!

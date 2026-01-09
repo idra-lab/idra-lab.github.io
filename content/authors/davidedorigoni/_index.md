@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to [] or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 Davide is currently a PhD student working in collaboration with Unitn and FBK. His focus is on mapping technologies for the generation of digital twins of fields in the agricultural sector. He is proficient in ROS, C++, and Python.
