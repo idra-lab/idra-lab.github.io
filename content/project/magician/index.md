@@ -3,7 +3,7 @@ title: MAGICIAN
 subtitle: Immersive learninG for imperfection detection and repair through human-robot interaction.
 summary: Robotic solutions to classify and rework defects in manufacturing.
 tags: ["Smart Industrial Robotics", "Manufacturing"]
-authors: [danielefontanelli, luigipalopoli, matteosaveriano, andreadelprete, marcoroveri, songqungao, matteodallevedove, elenabasei, gustavofuentevilla, veronicacampana]
+authors: [danielefontanelli, luigipalopoli, matteosaveriano, andreadelprete, marcoroveri, songqungao, matteodallevedove, elenabasei, gustavofuentevilla, veronicacampana, paologolinelli]
 date: '2023-10-01'
 date_end: '2027-09-30'
 ---
