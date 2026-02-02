@@ -4,7 +4,7 @@ toc: true
 reading_time: false
 pager: false
 show_date: false
-authors: [marcocamurri, michelefocchi, andreadelprete, davidedorigoni, tommasofaraci, pietronoahcrestaz, luigipalopoli, danielefontanelli, lucahardonk, rubenmalacarne]
+authors: [marcocamurri, michelefocchi, andreadelprete, tommasofaraci, pietronoahcrestaz, elisaalboni, eliasfontanari, davidedemartini, luigipalopoli, danielefontanelli]
 summary: |-
  Field robotics deals with the fundamentals and applications of mobile robots operating in unstructured and dynamic environments.
 ---
@@ -27,10 +27,10 @@ The development of this prototype required the integration of multiple multidisc
 - **Computer science and robotics**: development of control and navigation software, including computer vision algorithms for environment recognition, surface classification, and foreign object detection, as well as optimization algorithms for path planning.
 - **Supervision and remote control systems**: development of a web application for real-time monitoring and remote operation of the robot, allowing operators to supervise tasks and intervene safely and efficiently.
 
-The  webpage of the WIKI of the project can be found here:[https://github.com/alpine-robot](https://github.com/alpine-roboth).
+The  webpage of the WIKI of the project can be found here: [https://github.com/alpine-robot](https://github.com/alpine-roboth).
 
-### The Team
+#### The Climbing Robot Team
 
 - [Michele Focchi](/author/michele-focchi/) - Professor
-- [Ruben Malacarne](/author/ruben-malacarne/) - Student
-- [Luca Hardonk](/author/luca-hardonk/) - Student
+- Ruben Malacarne - Student
+- Luca Hardonk - Student
