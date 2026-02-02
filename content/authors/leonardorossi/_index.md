@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Davide De Martini
+title: Leonardo Rossi
 
 # Full name (for SEO)
-first_name: Davide
-last_name: De Martini
+first_name: Leonardo
+last_name: Rossi
 
 # Username (this should match the folder name)
 authors:
-  - davidedemartini
+  - leonardorossi
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,28 +19,28 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
   - name: University of Trento
-    url: 'https://webapps.unitn.it/du/it/Persona/PER0226563'
+    url: 'https://webapps.unitn.it/du/it/Persona/PER0296106'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher in planning and control of quadrupedal locomotion.
+bio: Passionate researcher in robot learning and foundation models for robotics.
 
 
 interests:
-  - Deep Learning
-  - Learning based control
-  - Locomotion
+  - Robot Learning
+  - Foundation Models for Robotics
+  - Safety Learning
 
 education:
   courses:
-    - course: PhD in Robotics
+    - course: PhD in Material, Mechatronics and Systems Engineering
       institution: University of Trento
       year: Now
-    - course: M.Sc. in Artificial Intelligence Systems
-      institution: University of Trento
+    - course: M.Sc. in Control Systems Engineering
+      institution: University of Padova
       year: 2025
     - course: B.Sc. in Information Engineering
-      institution: University of Trento
-      year: 2023
+      institution: University of Padova
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,16 +49,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:davide.demartini@unitn.it'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=or6CzwMAAAAJ&hl=en
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/davidedemartini/
+    link: 'mailto:leonardo.rossi@unitn.it'
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: 
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/davidedema
+    link: https://github.com/LeonardoRossii
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,6 +74,6 @@ user_groups:
   - PhD Students
 ---
 
-Davide is a PhD student at the university of Trento. He received the B.Sc. degree in computer science at the University of Trento, Italy, in 2023 and the M.Sc. in artificial intelligence systems at the University of Trento, Italy, in 2025. His research focuses on planning and control of quadrupedal locomotion.
+Leonardo Rossi is a PhD Student in Material, Mechatronics and Systems Engineering at the University of Trento. His research focuses on robot learning, with particular emphasis on Reinforcement Learning and Foundation Models for robotics. A central aspect of his work is the development of methods that aim to enhance safety, robustness to irreversible events, and reliability of robotic systems in real-world environments.
 
 
