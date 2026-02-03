@@ -1,5 +1,5 @@
 ---
-title: Best Paper Award at I-RIM 3D 2025
+title: Award I-RIM 3D 2025 @Rome, Italy
 date: 2025-10-18
 reading_time: false
 authors: [lucabeber, edoardolamon, matteosaveriano, danielefontanelli, luigipalopoli]
@@ -8,6 +8,8 @@ research: [medical]
 
 ## Best Paper Award in Surgical Robotics at I-RIM 3D 2025
 IDRA received a **Best Paper Award in Surgical Robotics** at the **Robotics and Intelligent Machines Conference (I-RIM 3D 2025)**, held in Rome (Italy) from **17 to 19 October 2025**.
+
+<!--more-->
 
 The awarded paper, titled **Autonomous Robotic Palpation and Abnormality Detection through Ergodic Exploration**, was authored by *Luca Beber, Edoardo Lamon, Matteo Saveriano, Daniele Fontanelli, and Luigi Palopoli*.
 

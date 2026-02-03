@@ -48,11 +48,6 @@ Our interdisciplinary team comprises experts in robotics, estimation, and artifi
 - [Davide Nardi](/author/davide-nardi/) - PhD Student
 - [Antonella Rech](/author/antonella-rech/) - PhD Student
 
-
-## Publications and Events
-
-We actively participate in leading conferences and publish our findings in top-tier journals. Recent highlights include:
-
 ## Publications and Events
 
 We actively participate in leading international conferences and publish our research in top-tier journals. Recent highlights include:

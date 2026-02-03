@@ -1,5 +1,5 @@
 ---
-title: Industry 5.0 Workshop at I-RIM 3D 2025
+title: Workshop I-RIM 3D 2025 @Rome, Italy
 date: 2025-10-17
 reading_time: false
 authors: [matteodallevedove, edoardolamon, danielefontanelli]
@@ -9,9 +9,9 @@ research: [manufacturing]
 ## Industry 5.0: Workplace Transformation with Next Generation Smart Robots
 On **17 October 2025**, IDRA organized the workshop **“Industry 5.0: Workplace Transformation with Next Generation Smart Robots”** at **I-RIM 3D 2025**, held in Rome (Italy).
 
-The workshop was organized by *Matteo Dalle Vedove, Edoardo Lamon, and Daniele Fontanelli* and focused on the evolution of industrial robotics towards **human-centered production paradigms**, in line with ongoing European research activities.
-
 <!--more-->
+
+The workshop was organized by *Matteo Dalle Vedove, Edoardo Lamon, and Daniele Fontanelli* and focused on the evolution of industrial robotics towards **human-centered production paradigms**, in line with ongoing European research activities.
 
 ### Workshop Scope
 Industry 5.0 brings humans back to the center of industrial production through effective **human–robot collaboration**. While collaborative robots enable shared workspaces, real-world deployment requires more than safety certification and simple coexistence.
