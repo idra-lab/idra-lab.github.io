@@ -38,10 +38,10 @@ education:
       year: Now
     - course: M.Sc. in Mechatronics Engineering
       institution: University of Trento
-      year: 2021
+      year: 2025
     - course: B.Sc. in Industrial Engineering
       institution: University of Trento
-      year: 2018
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -75,6 +75,5 @@ user_groups:
   - PhD Students
 ---
 
-I am a PhD Candidate in Material, Mechatronics and Systems Engineering at the University of Trento. My PhD is done in collaboration with the robotic section of the European Organization for Nuclear Research (CERN), where my reserch will be focused on the development of novel robotic systems that will be operate in the current and future infrustructures at CERN.
-
+I am a PhD Candidate in Material, Mechatronics and Systems Engineering at the University of Trento. My PhD is done in collaboration with the robotic section of the European Organization for Nuclear Research (CERN), where my reserch will be focused on the development of novel robotic systems that will operate in the current and future infrustructures at CERN.
 
