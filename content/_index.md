@@ -16,9 +16,9 @@ sections:
         
         The **Interdepartmental Robotics Labs** (IDRA) is a strategic initiative of the University of Trento to combine expertise in different areas within the robotics research. It involves the Department of Industrial Engineering (DII) and the Department of Information Engineering and Computer Science (DISI).
 
-        The [Department of Industrial Engineering (DII)](www.dii.unitn.it) performs research, training, and teaching  in the sectors of Industrial Engineering, in particular in mechanics, mechatronics, materials engineering, electronic-and micro-electronics systems, mananagerial information systems, and optimization methods and models to support decision making. 
+        The [Department of Industrial Engineering (DII)](https://www.dii.unitn.it) performs research, training, and teaching  in the sectors of Industrial Engineering, in particular in mechanics, mechatronics, materials engineering, electronic-and micro-electronics systems, mananagerial information systems, and optimization methods and models to support decision making. 
 
-        The [Department of Information Engineering and Computer Science (DISI)](www.disi.unitn.it) is a leading institution in research and development in the area of Information and Communication Technology (ICT), and in particular in the field of software engineering, signal processing, networks and sensing, machine learning, quantum computing, and human-computer interaction.
+        The [Department of Information Engineering and Computer Science (DISI)](https://www.disi.unitn.it) is a leading institution in research and development in the area of Information and Communication Technology (ICT), and in particular in the field of software engineering, signal processing, networks and sensing, machine learning, quantum computing, and human-computer interaction.
 
         Take a look to the latest videos of our research in our [YouTube page](https://www.youtube.com/@idra-unitninterdep.institu8477)!
   
