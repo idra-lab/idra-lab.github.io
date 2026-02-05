@@ -75,6 +75,6 @@ user_groups:
   - PhD Students
 ---
 
-I am a PhD Candidate in Material, Mechatronics and Systems Engineering at the University of Trento. My PhD is done in collaboration with the robotic section of CERN, where my reserch will be focused on the development of novel robotic systems that will be operate in the current and future infrustructures at CERN.
+I am a PhD Candidate in Material, Mechatronics and Systems Engineering at the University of Trento. My PhD is done in collaboration with the robotic section of the European Organization for Nuclear Research (CERN), where my reserch will be focused on the development of novel robotic systems that will be operate in the current and future infrustructures at CERN.
 
 
