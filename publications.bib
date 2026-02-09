@@ -42,7 +42,7 @@
   keywords={Robots;Ribs;Probes;Ultrasonic imaging;Skin;Solid modeling;Computational modeling;Three-dimensional displays;Biological system modeling;Cameras;Medical robots and systems;physical human-robot interaction;telerobotics and teleoperation},
   doi={10.1109/LRA.2026.3653292}}
 
-@INPROCEEDINGS{10802582,
+@INPROCEEDINGS{beber2024towards,
   author={Beber, Luca and Lamon, Edoardo and Moretti, Giacomo and Fontanelli, Daniele and Saveriano, Matteo and Palopoli, Luigi},
   booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
   title={Towards Robotised Palpation for Cancer Detection through Online Tissue Viscoelastic Characterisation with a Collaborative Robotic Arm}, 
@@ -149,12 +149,16 @@
   doi={10.1109/LRA.2020.2972787},
 }
 
-@article{pastorelli2024fast,
-  title={Fast Shortest Path Polyline Smoothing With G1 Continuity and Bounded Curvature},
+@ARTICLE{10879531,
   author={Pastorelli, Patrick and Dagnino, Simone and Saccon, Enrico and Frego, Marco and Palopoli, Luigi},
-  journal={arXiv preprint arXiv:2409.09816},
-  year={2024}
-}
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Fast Shortest Path Polyline Smoothing With $G^{1}$ Continuity and Bounded Curvature}, 
+  year={2025},
+  volume={10},
+  number={4},
+  pages={3182-3189},
+  keywords={Interpolation;Approximation algorithms;Smoothing methods;Computational efficiency;Turning;Planning;Training;Standards;Programming;Motion segmentation;Motion planning;path planning;shortest path problem},
+  doi={10.1109/LRA.2025.3540531}}
 
 @ARTICLE{Access2024,
   author={Lunardi, Gianni and Corbères, Thomas and Mastalli, Carlos and Mansard, Nicolas and Flayols, Thomas and Tonneau, Steve and Prete, Andrea Del},
@@ -167,14 +171,18 @@
   keywords={Costs;Legged locomotion;Trajectory;Dynamics;Collision avoidance;Stability analysis;Predictive control;Quadrupedal robots;Full-body MPC;collision avoidance;DDP},
   doi={10.1109/ACCESS.2023.3345157}}
 
-@misc{bertollo2024,
-      title={Hybrid Lyapunov-based feedback stabilization of bipedal locomotion based on reference spreading}, 
-      author={Riccardo Bertollo and Gianni Lunardi and Andrea Del Prete and Luca Zaccarian},
-      year={2024},
-      eprint={2405.02184},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2405.02184}, 
+@article{BERTOLLO2025112106,
+  title = {Hybrid Lyapunov-based feedback stabilization of bipedal locomotion based on reference spreading},
+  journal = {Automatica},
+  volume = {174},
+  pages = {112106},
+  year = {2025},
+  issn = {0005-1098},
+  doi = {https://doi.org/10.1016/j.automatica.2024.112106},
+  url = {https://www.sciencedirect.com/science/article/pii/S0005109824005995},
+  author = {Riccardo Bertollo and Gianni Lunardi and Andrea {Del Prete} and Luca Zaccarian},
+  keywords = {Hybrid dynamical systems, Bipedal locomotion, Reference spreading, Convex optimization},
+  abstract = {We propose a hybrid formulation of the linear inverted pendulum model for bipedal locomotion, where the foot switches are triggered based on the center of mass position, removing the need for pre-defined footstep timings. Using a concept similar to reference spreading, we define nontrivial tracking error coordinates induced by our hybrid model. These coordinates enjoy desirable linear flow dynamics and rather elegant jump dynamics perturbed by a suitable extended class K∞ function of the position error. We stabilize this hybrid error dynamics using a saturated feedback controller, selecting its gains by solving a convex optimization problem. We prove local asymptotic stability of the tracking error and provide a certified estimate of the basin of attraction, comparing it with a numerical estimate obtained from the integration of the closed-loop dynamics. Simulations on a full-body model of a real robot show the practical applicability of the proposed framework and its advantages with respect to a standard model predictive control formulation.}
 }
 
 @INPROCEEDINGS{Icra2024,
@@ -210,55 +218,24 @@
   keywords={Computer vision;Accuracy;Navigation;Urban areas;Computer architecture;Transformers;Trajectory;vision transformers;human motion prediction;semantic scene understanding;masked autoencoders;occupancy priors},
   doi={10.1109/COMPSAC61105.2024.00060}}
 
-@inproceedings{Marco2023variable,
-  title = {Variable stiffness control for assistive walkers},
-  author = {Alberto Marco and Placido Falqueto and Stefano Daniele and Daniele Fontanelli and Luigi Palopoli},
-  booktitle = {2023 I-RIM Conference},
-  pages = {120--124},
-  year = {2023}
-}
+@INPROCEEDINGS{10711399,
+  author={Vedove, Matteo Dalle and Lamon, Edoardo and Fontanelli, Daniele and Palopoli, Luigi and Saveriano, Matteo},
+  booktitle={2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)}, 
+  title={A Passivity-Based Variable Impedance Controller for Incremental Learning of Periodic Interactive Tasks}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={2604-2609},
+  keywords={Surface impedance;Incremental learning;Tracking;Education;End effectors;Safety;Impedance;Usability;Robots;Oscillators},
+  doi={10.1109/CASE59546.2024.10711399}}
 
-@inproceedings{Falqueto2023behavioural,
-  title = {Behavioural Maps for Assisted Navigation},
-  author = {Placido Falqueto and Alessandro Antonucci and Luigi Palopoli and Daniele Fontanelli},
-  booktitle = {2023 I-RIM Conference},
-  year = {2023}
-}
-
-@inproceedings{Falqueto2022behavioural,
-  title={Behavioural Maps for Assisted Navigation},
-  author = {Placido, Falqueto and Alessandro, Antonucci and Luigi, Palopoli and Daniele, Fontanelli},
-  booktitle={2022 I-RIM Conference},
-  DOI={10.5281/zenodo.7531350},
-  pages={177--179},
-  year = {2022},
-  organization={I-RIM}
-}
-
-
-@mastersthesis{Falqueto2020sviluppo,
-  title = {Sviluppo di algoritmi di controllo di forza per robot collaborativi},
-  author = {Placido Falqueto},
-  year = {2020},
-  school = {University of Padova}
-}
-
-@misc{vedove2024passivitybasedvariableimpedancecontroller,
-      title={A Passivity-Based Variable Impedance Controller for Incremental Learning of Periodic Interactive Tasks}, 
-      author={Matteo Dalle Vedove and Edoardo Lamon and Daniele Fontanelli and Luigi Palopoli and Matteo Saveriano},
-      year={2024},
-      eprint={2408.10580},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2408.10580}, 
-}
-
-@misc{vedove2024meshdmpmotionplanningdiscrete,
-      title={MeshDMP: Motion Planning on Discrete Manifolds using Dynamic Movement Primitives}, 
-      author={Matteo Dalle Vedove and Fares J. Abu-Dakka and Luigi Palopoli and Daniele Fontanelli and Matteo Saveriano},
-      year={2024},
-      eprint={2410.15123},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2410.15123}, 
-}
+@INPROCEEDINGS{11128556,
+  author={Vedove, Matteo Dalle and Abu-Dakka, Fares J. and Palopoli, Luigi and Fontanelli, Daniele and Saveriano, Matteo},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={MeshDMP: Motion Planning on Discrete Manifolds Using Dynamic Movement Primitives}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={895-901},
+  keywords={Manifolds;Geometry;Automation;Differential operators;Service robots;Dynamics;Trajectory;Automobiles;Manipulator dynamics;Surface treatment},
+  doi={10.1109/ICRA55743.2025.11128556}}
