@@ -43,7 +43,7 @@ The workshop welcomes contributions including, but not limited to:
 - Applications in medical and rehabilitation robotics, manufacturing, and service robotics  
 
 ### Key Date
-Paper submission deadline: **06 March 2026**
+Paper submission deadline: **01 April 2026**
 
 We warmly invite the community to submit their latest research results and join us in Trento for two days of in-depth discussions on the future of human-friendly robotics.
 
