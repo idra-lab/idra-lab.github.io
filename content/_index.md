@@ -20,7 +20,7 @@ sections:
 
         The [Department of Information Engineering and Computer Science (DISI)](https://www.disi.unitn.it) is a leading institution in research and development in the area of Information and Communication Technology (ICT), and in particular in the field of software engineering, signal processing, networks and sensing, machine learning, quantum computing, and human-computer interaction.
 
-        Take a look to the latest videos of our research in our [YouTube page](https://www.youtube.com/@idra-unitninterdep.institu8477)!
+        Take a look to the latest videos of our research in our [YouTube page](https://www.youtube.com/@idra-unitn)!
   
   - block: collection
     content:
