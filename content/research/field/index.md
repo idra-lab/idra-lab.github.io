@@ -27,7 +27,7 @@ CO-FAST, standing for “Cooperative and Optimization-based Framework for Aerial
 
 <img src="./images/fire_suppression_cycle.png" width="900">
 
-<img src="./images/antenna_assembly.png" width="600">
+<img src="./images/antenna_assembly.png" width="500">
 
 
 
@@ -35,7 +35,17 @@ CO-FAST, standing for “Cooperative and Optimization-based Framework for Aerial
 
 Tracked vehicles distribute their weight continuously over a large  surface area (the tracks). This distinctive feature makes them the  preferred choice for vehicles required to traverse soft and uneven  terrain. From a robotics perspective, however, this flexibility comes at a cost: the complexity of modelling the system and the resulting  difficulty in designing theoretically sound navigation solutions. In  this research we aim to bridge this gap by proposing a framework for the  navigation of tracked vehicles, built upon three key pillars. The first  pillar comprises two models: a simulation model and a control-oriented  model. The simulation model captures the intricate terramechanics  dynamics arising from soil-track interaction and is employed to develop  faithful digital twins of the system across a wide range of operating  conditions. The control-oriented model is pseudo-kinematic and  mathematically tractable, enabling the design of efficient and  theoretically robust control schemes. The second pillar is a  Lyapunov-based feedback trajectory controller that provides certifiable  tracking guarantees. The third pillar is a portfolio of motion planning  solutions, each offering different complexity-accuracy trade-offs. 
 
-<img src="./images/distributed_sim.png" width="600">
+<img src="./images/distributed_sim.png" width="500">
+
+
+
+
+
+### Hybrid Aerial Locomotion 
+
+Legged robots have superior mobility than wheeled vehicles on rough terrain, however thy reach their limits when facing obstacles size beyong they leg reach. A jumping strategy can be a solution in those cases. However, jump length and height is severely limited by actuator bounds. In this research we augment a quadruped with a thruster backpack that unlocks unprecendented jumps magnitudes, like in a low-gravity environment. The impulsive and limited-in-time nature of the thrust allows the actuators to be under-sized and therefore more compact, while still extracting the same amount of power by over-volting the drivers and monitoring coil temperature. This approach opens a new research direction termed *hybrid aerial locomotion*, where flying phases are seamlessly alternated with terrestrial locomotion, combining the agility and efficiency of legged robots with the obstacle-crossing capabilities of aerial systems.
+
+<img src="./images/hybrid_aerial.png" width="500">
 
 
 
@@ -56,11 +66,11 @@ The development of this prototype required the integration of multiple multidisc
 
  
 
-<img src="./images/cad_winch.jpeg" width="600">
+<img src="./images/cad_winch.jpeg" width="400">
 
 
 
-<img src="./images/use_case_new_square.png" width="600">
+<img src="./images/use_case_new_square.png" width="500">
 
 An explanatory video of the project can be found [here](https://www.youtube.com/watch?v=dRgj9493DnM).
 
