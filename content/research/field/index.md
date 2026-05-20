@@ -23,11 +23,9 @@ CO-FAST, standing for “Cooperative and Optimization-based Framework for Aerial
 
 
 
-![](https://github.com/idra-lab/idra-lab.github.io/blob/044f6864b802e3c2b5f70d7f74762174c5656103/content/research/field/fire_suppression_cycle.png)
+<img src="./images/fire_suppression_cycle.jpg" width="900">
 
-<img src="./images/fire_suppression_cycle.png" width="900">
-
-<img src="./images/antenna_assembly.png" width="500">
+<img src="./images/antenna_assembly.jpg" width="500">
 
 
 
@@ -35,11 +33,22 @@ CO-FAST, standing for “Cooperative and Optimization-based Framework for Aerial
 
 Tracked vehicles distribute their weight continuously over a large  surface area (the tracks). This distinctive feature makes them the  preferred choice for vehicles required to traverse soft and uneven  terrain. From a robotics perspective, however, this flexibility comes at a cost: the complexity of modelling the system and the resulting  difficulty in designing theoretically sound navigation solutions. In  this research we aim to bridge this gap by proposing a framework for the  navigation of tracked vehicles, built upon three key pillars. The first  pillar comprises two models: a simulation model and a control-oriented  model. The simulation model captures the intricate terramechanics  dynamics arising from soil-track interaction and is employed to develop  faithful digital twins of the system across a wide range of operating  conditions. The control-oriented model is pseudo-kinematic and  mathematically tractable, enabling the design of efficient and  theoretically robust control schemes. The second pillar is a  Lyapunov-based feedback trajectory controller that provides certifiable  tracking guarantees. The third pillar is a portfolio of motion planning  solutions, each offering different complexity-accuracy trade-offs. 
 
+
+
 <img src="./images/distributed_sim.png" width="500">
 
 
 
-
+<div style="text-align:center;">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/hSewjuRDzO8"
+    title="YouTube video player"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Hybrid Aerial Locomotion 
 
@@ -70,7 +79,7 @@ The development of this prototype required the integration of multiple multidisc
 
 
 
-<img src="./images/use_case_new_square.png" width="500">
+<img src="./images/use_case_new_square.jpg" width="500">
 
 An explanatory video of the project can be found [here](https://www.youtube.com/watch?v=dRgj9493DnM).
 
