@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor (RTT - Tenure Track) 
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
